@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "19008034734",
+    "project_id": "teamup-3627f",
+    "storage_bucket": "teamup-3627f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19008034734:android:7a15967251efe5a1bada3f",
+        "android_client_info": {
+          "package_name": "com.teamup200club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19008034734-ar1v2utbco281jau0tij9714se83uajo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamup200club",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "19008034734-nr7sk3ec67k2ml6qfvjn9dchc0mfa6ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAO2yhibTSUMTPKVvlJapu1mLRqm-HfhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19008034734-nr7sk3ec67k2ml6qfvjn9dchc0mfa6ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19008034734-68lb81r212l1s92uvm5qdf103ba8a2rt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.teamup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
